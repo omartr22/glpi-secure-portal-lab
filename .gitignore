@@ -1,0 +1,17 @@
+# Secrets and keys
+*.key
+*.pfx
+*.pem
+*.env
+secrets/
+
+# VM files and images
+*.vmdk
+*.vmx
+*.iso
+*.ova
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
